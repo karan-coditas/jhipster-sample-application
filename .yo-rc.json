@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZWQzNzk0MTEyMjIyZDYxM2U1MTNiMGIxMjZjNjU5NzcyMzE1YWM5OWZjN2ZmZDliNTc0ZGFlYzBiMjNmYWQxYzEwMjhlMjFjNDdjZDhlODYwZTk0MzkwNTk2MjZlZGVjNzEwMGZlZmUzMzEwYmQ5ZGQ3OGYyNTIzNGZhMTIyOWM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "karan-coditas",
+  "repository-name": "jhipster-sample-application"
+}
